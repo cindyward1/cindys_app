@@ -1,0 +1,1 @@
+"--with-xml2-include=/usr/local/opt/libxml2/include/libxml2 --with-xml2-lib=/usr/local/opt/libxml2/lib --with-xslt-dir=/usr/local/opt/libxslt"
